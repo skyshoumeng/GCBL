@@ -5,7 +5,7 @@ Guided Contrastive Boundary Learning for Semantic Segmentation
 </pre>
 
 <p align="center">
-        <img src="figs/frame_gt4.pdf" title="GCBL framwork" width="60%">
+        <img src="figs/frame_gt4.png" title="GCBL framwork" width="60%">
 </p> 
 
 ### Abstract
