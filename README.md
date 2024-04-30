@@ -16,5 +16,5 @@ Semantic segmentation is a fundamental task for environmental understanding, whi
 ### Visualization 
 
 <p align="center">
-        <img src="figs/vis1_v2.png" title="Segmentation Visualization" width="60%">
+        <img src="figs/vis1_v2.png" title="Segmentation Visualization" width="90%">
 </p> 
